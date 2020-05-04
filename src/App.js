@@ -63,11 +63,6 @@ function App() {
                 />
               </div>
               <div className="col m6 s12">
-                <Clima
-                  resultado={resultado}
-                />
-              </div>
-              <div className="col m6 s12">
                 {componente}
               </div>
             </div>
